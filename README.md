@@ -3,7 +3,12 @@
 ## Team Profile Generator Description:
 The purpose of this application is to develop identification cards for employees, specifically Managers, Engineers, and Interns. This information, depending on the users selection, will include their name, role, and ID; additional informationi may be provided as well, such as email, github user, and office number. 
 
+Video Link:
+https://drive.google.com/file/d/1U5706tZ3385CCofFUojOJ0ra5w09XmdT/view 
 
+![Screenshot Team Profile Generator](utils/teamgen.jpg)
+
+https://github.com/miss-heather/teamprofilegeneratorhw 
 
 ## Team Profile Generator Installation
 N/A
